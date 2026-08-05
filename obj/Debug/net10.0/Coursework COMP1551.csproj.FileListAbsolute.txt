@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Coursework COMP1551\bin\Debug\net10.0\Coursework COMP1551.exe
+C:\Users\ADMIN\source\repos\Coursework COMP1551\bin\Debug\net10.0\Coursework COMP1551.deps.json
+C:\Users\ADMIN\source\repos\Coursework COMP1551\bin\Debug\net10.0\Coursework COMP1551.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Coursework COMP1551\bin\Debug\net10.0\Coursework COMP1551.dll
+C:\Users\ADMIN\source\repos\Coursework COMP1551\bin\Debug\net10.0\Coursework COMP1551.pdb
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.dll
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\refint\Coursework COMP1551.dll
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.pdb
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\Coursework COMP1551.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Coursework COMP1551\obj\Debug\net10.0\ref\Coursework COMP1551.dll
